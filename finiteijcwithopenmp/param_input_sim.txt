@@ -1,0 +1,8 @@
+0.98	beta
+2.00  gamma0
+1.00	gamma1
+-0.50	alpha
+0.15	sig_alpha
+0.05	phi
+0.98	rho_p
+0.20	sd_p
